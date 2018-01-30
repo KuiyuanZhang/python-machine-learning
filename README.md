@@ -6,11 +6,11 @@
 
 传送门：
 
-+ __第二章__  机器学习分类算法  [第二章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/第二章、机器学习分类算法（感知器、适应性线性神经元）.ipynb)
-+ __第三章__   使用scikit-learn实现机器学习分类算法  [第三章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/第三章、scikit-learn 实现机器学习分类算法.ipynb)
-+ __第四章__    数据预处理——构建好的训练数据集   [第四章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/第四章、数据预处理——构建好的训练数据集.ipynb)
-+ __第五章__    通过降维压缩数据   [第五章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/第五章、通过降维压缩数据.ipynb)
-+ __第十二章__  使用Theano并行训练神经网络    [第十二章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/第十二章、使用神经网络识别图像.ipynb)
++ __第二章__  机器学习分类算法  [第二章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/chapter2.ipynb)
++ __第三章__   使用scikit-learn实现机器学习分类算法    [第三章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/chapter3.ipynb)
++ __第四章__    数据预处理——构建好的训练数据集   [第四章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/chapter4.ipynb)
++ __第五章__    通过降维压缩数据   [第五章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/chapter5.ipynb)
++ __第十二章__  使用Theano并行训练神经网络    [第十二章](http://nbviewer.jupyter.org/github/KuiyuanZhang/python-machine-learning/tree/master/code/chapter12.ipynb)
 
 
 
